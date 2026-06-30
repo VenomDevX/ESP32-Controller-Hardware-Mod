@@ -1,0 +1,21 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Build/cache output
+build/
+dist/
+out/
+.pio/
+*.log
+*.tmp
